@@ -9,7 +9,8 @@ Designed for all devices, built using HTML, CSS, JavaScript, React, and more.
 <br />
 <br />
 
-[![Live Demo](https://img.shields.io/badge/Live%20Demo-Yash%20Portfolio-blue?style=for-the-badge)](https://github.com/psparwez/yash-portfolio)
+[![Live Demo](https://img.shields.io/badge/-Live%20Demo-1d164b?style=for-the-badge&logo=vercel&logoColor=white)](https://github.com/psparwez/yash-portfolio)
+
 
 </div>
 
