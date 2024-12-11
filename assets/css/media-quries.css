@@ -90,6 +90,9 @@
   .nav-lists {
     width: 80%;
   }
+  .nav-link {
+    width: 100% !important;
+  }
   .social-wrapper {
     display: none;
   }
